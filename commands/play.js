@@ -9,7 +9,7 @@ module.exports = {
   description: "come one let's hear some music!!",
   permissions: "0x0000000000000800",
   options: [{
-    name: 'name',
+    name: 'name/link',
     description: 'Type the name of the music you want to play.',
     type: ApplicationCommandOptionType.String,
     required: true
