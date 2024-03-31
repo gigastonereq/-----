@@ -10,8 +10,8 @@
    
    # MADE BY RTX!! FEEL FREE TO USE ANY PART OF CODE
    ## FOR HELP CONTACT ME ON DISCORD
-   ## Contact    [ DISCORD SERVER :  https://discord.gg/FUEHs7RCqz ]
-   ## YT : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+   ## Contact    [ DISCORD SERVER :  https://discord.gg/KyxUC4h8K6 ]
+   ## YT : https://www.youtube.com/channel/UCFeiE-VP3sEuBeKhJnHdoYw
 */
 const { Schema, model } = require("mongoose");
 
@@ -46,6 +46,6 @@ module.exports = {
    
    # MADE BY RTX!! FEEL FREE TO USE ANY PART OF CODE
    ## FOR HELP CONTACT ME ON DISCORD
-   ## Contact    [ DISCORD SERVER :  https://discord.gg/FUEHs7RCqz ]
-   ## YT : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+   ## Contact    [ DISCORD SERVER :  https://discord.gg/KyxUC4h8K6 ]
+   ## YT : https://www.youtube.com/channel/UCFeiE-VP3sEuBeKhJnHdoYw
 */
