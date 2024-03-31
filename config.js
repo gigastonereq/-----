@@ -1,19 +1,19 @@
 module.exports = {
   TOKEN: "",
-  ownerID: ["1004206704994566164", ""],
+  ownerID: ["1176509679447310369", ""],
   botInvite: "",
   supportServer: "",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
-  status: 'RTXX GG',
+  status: 'MUSIC BOT 002',
   commandsDir: './commands',
   language: "en",
-  embedColor: "00fbff",
+  embedColor: "f18aff",
   errorLog: "",
 
 
   sponsor: {
     status: true,
-    url: "https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A",
+    url: "https://www.youtube.com/channel/UCFeiE-VP3sEuBeKhJnHdoYw",
   },
 
   voteManager: {
