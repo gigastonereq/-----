@@ -69,8 +69,8 @@ module.exports = {
         .setStyle(ButtonStyle.Link);
 
       const button3 = new ButtonBuilder()
-        .setLabel('Code')
-        .setURL('https://github.com/RTX-GAMINGG/RTX-MUSIC-BOT-v3.6')
+        .setLabel('BOT')
+        .setURL('https://discord.com/oauth2/authorize?client_id=1193105795731161148&scope=bot&permissions=0')
         .setStyle(ButtonStyle.Link);
 
       const row = new ActionRowBuilder()
