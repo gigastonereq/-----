@@ -188,7 +188,7 @@ await interaction.editReply({
         }
 
        const deletingAlbumEmbed = new EmbedBuilder()
-          .setColor('#0099ff')
+          .setColor('#f18aff')
           .setTitle('Deleting Album')
           .setDescription(`Hey <@${interaction.member.id}>, your album is being Deleted 🎸`)
           .setTimestamp();
