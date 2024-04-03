@@ -41,10 +41,9 @@
 █▄█  █▄▄█▄▄▄▄▄▄▄█  █▄█  █▄▄█▄▄█ █▄▄█▄█   █▄█▄▄▄▄▄▄▄█
 
 
-   FOR EMOJIS EITHER YOU CAN EDIT OR JOIN OUR DISCORD SERVER 
-   SO WE ADD BOT TO OUR SERVER SO YOU GET ANIMATED EMOJIS.
+ติดต่อฉันได้ที่ DISCORD
 
-   DISCORD SERVER : https://discord.gg/FUEHs7RCqz
+   เซิร์ฟเวอร์ DISCORD : https://discord.gg/KyxUC4h8K6
    YOUTUBE : https://www.youtube.com/@user-sz9sp9lz7d/streams
 
    FOR HELP CONTACT ME ON DISCORD
