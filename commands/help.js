@@ -29,7 +29,7 @@ module.exports = {
     try {
       const musicCommandsEmbed = new EmbedBuilder()
         .setColor(client.config.embedColor)
-        .setTitle('🎸 **Music Commands**')
+        .setTitle('🎸 **คำสั่งเพลง**')
         .addFields(
           { name: '🎹 Play', value: 'สตรีมเพลงจากลิงก์ที่กำหนดหรือข้อความจากแหล่งที่มา' },
           { name: '⏹️ Stop', value: 'ทำให้บอทหยุดเล่นเพลงและปล่อยเสียงไว้' },
@@ -69,7 +69,7 @@ module.exports = {
         .setStyle(ButtonStyle.Link);
 
       const button3 = new ButtonBuilder()
-        .setLabel('BOT')
+        .setLabel('MY BOT')
         .setURL('https://discord.com/oauth2/authorize?client_id=1193105795731161148&scope=bot&permissions=0')
         .setStyle(ButtonStyle.Link);
 
