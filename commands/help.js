@@ -31,18 +31,18 @@ module.exports = {
         .setColor(client.config.embedColor)
         .setTitle('🎸 **Music Commands**')
         .addFields(
-          { name: '🎹 Play', value: 'Stream a song from a given link or text from sources' },
-          { name: '⏹️ Stop', value: 'Makes the bot stop playing music and leave the voice' },
-          { name: '📊 Queue', value: 'View and manage the song queue of this server' },
-          { name: '⏭️ Skip', value: 'Skip the current playing song' },
-          { name: '⏸️ Pause', value: 'Pause the currently playing song' },
-          { name: '▶️ Resume', value: 'Resume the current paused song' },
-          { name: '🔁 Loop', value: 'Toggle loop mode for queue and current song' },
-          { name: '🔄 Autoplay', value: 'Enable or disable autoplay [play random songs ]' },
-          { name: '⏩ Seek', value: 'Seek to a specific time in the current song' },
-          { name: '⏮️ Previous', value: 'Play the previous song in the queue' },
-          { name: '🔀 Shuffle', value: 'Shuffle the songs in queue' },
-          { name: '📃 playlist', value: 'manage the playlists' }
+          { name: '🎹 Play', value: 'สตรีมเพลงจากลิงก์ที่กำหนดหรือข้อความจากแหล่งที่มา' },
+          { name: '⏹️ Stop', value: 'ทำให้บอทหยุดเล่นเพลงและปล่อยเสียงไว้' },
+          { name: '📊 Queue', value: 'ดูและจัดการคิวเพลงของเซิร์ฟเวอร์นี้' },
+          { name: '⏭️ Skip', value: 'ข้ามเพลงที่กำลังเล่นอยู่' },
+          { name: '⏸️ Pause', value: 'หยุดเพลงที่กำลังเล่นอยู่ชั่วคราว' },
+          { name: '▶️ Resume', value: 'เล่นเพลงที่หยุดชั่วคราวปัจจุบันต่อ' },
+          { name: '🔁 Loop', value: 'สลับโหมดวนซ้ำสำหรับคิวและเพลงปัจจุบัน' },
+          { name: '🔄 Autoplay', value: 'เปิดหรือปิดการเล่นอัตโนมัติ [เล่นเพลงแบบสุ่ม ]' },
+          { name: '⏩ Seek', value: 'ค้นหาเวลาที่ระบุในเพลงปัจจุบัน' },
+          { name: '⏮️ Previous', value: 'เล่นเพลงก่อนหน้าในคิว' },
+          { name: '🔀 Shuffle', value: 'สุ่มเพลงในคิว' },
+          { name: '📃 playlist', value: 'จัดการเพลย์ลิสต์' }
         )
         .setImage(`https://cdn.discordapp.com/attachments/1004341381784944703/1165201249331855380/RainbowLine.gif?ex=654f37ba&is=653cc2ba&hm=648a2e070fab36155f4171962e9c3bcef94857aca3987a181634837231500177&`); 
 
