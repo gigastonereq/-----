@@ -48,7 +48,7 @@ module.exports = {
 
       const basicCommandsEmbed = new EmbedBuilder()
         .setColor(client.config.embedColor)
-        .setTitle('✨ **Basic Commands**')
+        .setTitle('✨ **คำสั่งพื้นฐาน**')
         .addFields(
           { name: '🏓 Ping', value: "ตรวจสอบเวลาแฝงของบอท" },
           { name: '🗑️ Clear', value: 'ล้างคิวเพลงของเซิร์ฟเวอร์นี้' },
