@@ -50,12 +50,12 @@ module.exports = {
         .setColor(client.config.embedColor)
         .setTitle('✨ **Basic Commands**')
         .addFields(
-          { name: '🏓 Ping', value: "Check the bot's latency" },
-          { name: '🗑️ Clear', value: 'Clear the song queue of this server' },
-          { name: '⏱️ Time', value: 'Display the current song playback time' },
-          { name: '🎧 Filter', value: 'Apply filters to enhance the sound as you love' },
-           { name: '🎵 Now Playing', value: 'Display the currently playing song information' },
-          { name: '🔊 Volume', value: 'Adjust the music volume [ hearing at high volumes is risky ]' },
+          { name: '🏓 Ping', value: "ตรวจสอบเวลาแฝงของบอท" },
+          { name: '🗑️ Clear', value: 'ล้างคิวเพลงของเซิร์ฟเวอร์นี้' },
+          { name: '⏱️ Time', value: 'แสดงเวลาเล่นเพลงปัจจุบัน' },
+          { name: '🎧 Filter', value: 'ใช้ฟิลเตอร์เพื่อเพิ่มคุณภาพเสียงตามที่คุณต้องการ' },
+           { name: '🎵 Now Playing', value: 'แสดงข้อมูลเพลงที่กำลังเล่นอยู่' },
+          { name: '🔊 Volume', value: 'ปรับระดับเสียงเพลง [ การได้ยินในปริมาณมากถือเป็นความเสี่ยง ]' },
         ) 
        .setImage('https://media.discordapp.net/attachments/1195758816474714205/1225102964029395015/standard_1.gif?ex=661fe90b&is=660d740b&hm=edd2b6c6152cb4d1cd99deaa14b89e999b5c88d99bff943060943f5346f545ef&=&width=550&height=309')
       const button1 = new ButtonBuilder()
