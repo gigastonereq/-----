@@ -45,7 +45,4 @@
 
    เซิร์ฟเวอร์ DISCORD : https://discord.gg/KyxUC4h8K6
    YOUTUBE : https://www.youtube.com/@user-sz9sp9lz7d/streams
-
-   FOR HELP CONTACT ME ON DISCORD
-   ## Contact    [ DISCORD SERVER :  https://discord.gg/c4kaW2sSbm ]
 */z
