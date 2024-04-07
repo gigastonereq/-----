@@ -1,34 +1,33 @@
 
-# Music Bot RTX GAMINGG
+# Music Bot (002)
 
 ## Overview
 
-This Music Bot for Discord is designed to elevate your server's music experience. It's a powerful tool for sharing and enjoying music with friends and community members while using Replit as your development environment.
+Music Bot for Discord นี้ออกแบบมาเพื่อยกระดับประสบการณ์ทางดนตรีของเซิร์ฟเวอร์ของคุณ เป็นเครื่องมืออันทรงพลังสำหรับการแบ่งปันและเพลิดเพลินกับเสียงเพลงกับเพื่อน ๆ และสมาชิกชุมชนในขณะที่ใช้ Replit เป็นสภาพแวดล้อมการพัฒนาของคุณ
 
 ## Features
 
-- **Multi-Source Playback**: Our bot can play music from various sources, including YouTube, SoundCloud, and Spotify, providing a diverse range of music options.
-- **User-Friendly Commands**: Interact with the bot using simple text commands such as `/play`, `/pause`, `/resume`, `/skip`, `/stop`, and `/queue` to control playback and manage your music queue.
-- **Queue Management**: Easily add songs to the queue, view the current queue, and manipulate the order of songs as needed.
-- **Volume Control**: Adjust the bot's volume to suit your preferences with convenient volume control commands.
-- **Now Playing Information**: Stay informed about the currently playing song, including details like title, artist, album, and duration.
-- **Error Handling**: Our bot is equipped with robust error handling to gracefully manage issues like unavailable songs or incorrect commands.
-- **Permissions**: Configure permissions to control who can use the bot's commands, ensuring your server's security.
-- **Customization**: Slash commands are used for this bot
-- **Support and Updates**: We provide support to address any questions or issues you may have, and we ensure that the bot stays up to date with the latest Discord library and dependency updates.
+- **Multi-Source Playback**: บอทของเราสามารถเล่นเพลงจากแหล่งต่างๆ รวมถึง YouTube, SoundCloud และ Spotify โดยมีตัวเลือกเพลงที่หลากหลาย
+- **User-Friendly Commands**: โต้ตอบกับบอทโดยใช้คำสั่งข้อความธรรมดา เช่น `/play`, `/pause`, `/resume`, `/skip`, `/stop`, and `/queue` เพื่อควบคุมการเล่นและจัดการคิวเพลงของคุณ
+- **Queue Management**: เพิ่มเพลงลงในคิว ดูคิวปัจจุบัน และจัดลำดับเพลงได้ตามต้องการ
+- **Volume Control**: ปรับระดับเสียงของบอทให้เหมาะกับความต้องการของคุณด้วยคำสั่งควบคุมระดับเสียงที่สะดวกสบาย
+- **Now Playing Information**: รับข่าวสารเกี่ยวกับเพลงที่กำลังเล่นอยู่ รวมถึงรายละเอียด เช่น ชื่อเพลง ศิลปิน อัลบั้ม และระยะเวลา
+- **Error Handling**: บอทของเรามีการจัดการข้อผิดพลาดที่แข็งแกร่งเพื่อจัดการปัญหาต่างๆ เช่น เพลงที่ไม่พร้อมใช้งานหรือคำสั่งที่ไม่ถูกต้อง
+- **Permissions**: กำหนดค่าสิทธิ์เพื่อควบคุมผู้ที่สามารถใช้คำสั่งของบอทได้ เพื่อให้มั่นใจถึงความปลอดภัยของเซิร์ฟเวอร์ของคุณ
+- **Customization**: คำสั่ง Slash ใช้สำหรับบอทนี้
+- **Support and Updates**: เราให้การสนับสนุนเพื่อตอบคำถามหรือปัญหาใดๆ ที่คุณอาจมี และเรารับรองว่าบอทจะอัปเดตไลบรารี Discord และการอัปเดตการพึ่งพาล่าสุดอยู่เสมอ
 
 ## Getting Started
 
-To get started with our Music Bot on Replit:
+ในการเริ่มต้นใช้งาน Music Bot ของเราบน Replit:
 
-1. Clone this repository to your Replit workspace.
-2. Set up your bot token and other configuration options.
-3. Run the bot using the appropriate command (e.g., `node bot.js`).
-
-Refer to our bot's documentation for detailed information on usage and configuration.
+1. โคลนพื้นที่เก็บข้อมูลนี้ไปยังพื้นที่ทำงาน Replit ของคุณ
+2. ตั้งค่าโทเค็นบอทและตัวเลือกการกำหนดค่าอื่นๆ
+3. รันบอทโดยใช้คำสั่งที่เหมาะสม (เช่น `node bot.js`)
+โปรดดูเอกสารประกอบของบอทของเราสำหรับข้อมูลโดยละเอียดเกี่ยวกับการใช้งานและการกำหนดค่า
 
 ## Support
 
-If you have any questions or encounter issues, please don't hesitate to reach out to our support team at []. We are here to help you make the most of your music bot experience on Replit.
+หากคุณมีคำถามหรือพบปัญหา โปรดติดต่อทีมสนับสนุนของเราได้ที่ [] เราอยู่ที่นี่เพื่อช่วยให้คุณได้รับประโยชน์สูงสุดจากประสบการณ์บอทเพลงของคุณบน Replit
 
-Enjoy sharing music and creating memorable moments with your Discord community!
+สนุกกับการแบ่งปันเพลงและสร้างช่วงเวลาที่น่าจดจำกับชุมชน Discord ของคุณ!
