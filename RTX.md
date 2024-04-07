@@ -9,6 +9,7 @@
 
   
    #สร้างโดย NO_NAME!! รู้สึกอิสระที่จะใช้ส่วนใดส่วนหนึ่งของรหัส
+   
    #เพื่อขอความช่วยเหลือติดต่อฉันบน Discord
    ## Contact    [ DISCORD SERVER :  https://discord.gg/FUEHs7RCqz ]
    ## YT : https://www.youtube.com/channel/UCFeiE-VP3sEuBeKhJnHdoYw
